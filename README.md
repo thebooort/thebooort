@@ -1,8 +1,5 @@
 
 
-<!--
-**thebooort/thebooort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h1 align="center">Hi 👋, I'm Bart</h1>
 <h3 align="center">An applied mathematician interested in machine learning :)</h3>
 

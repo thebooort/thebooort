@@ -13,9 +13,9 @@
 
 - 🎙️ My podcast is available at [The Fluxions](https://thefluxions.github.io)
 
-- 👨‍💻 My side projects are available at [thebooort.github.io](thebooort.github.io)
+- 👨‍💻 My side projects are available at [thebooort.github.io](https://thebooort.github.io)
 
-- 📝 I regulary write articles on [thebooort.github.io](thebooort.github.io)
+- 📝 I regulary write articles on [thebooort.github.io](https://thebooort.github.io)
 
 - 💬 Ask me about **Applied math, Math Modelling , Recommender Systems**
 

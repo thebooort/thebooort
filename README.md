@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **bortiz@ugr.es**
 
-- ⚡ Fun fact **AI is overrated**
+- ⚡ Fact **Often, data doesn’t offer answers, it offers the ability to find questions. (G. Sollazzo)**
 
 - 😄 Pronouns: He/Him
 

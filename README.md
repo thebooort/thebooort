@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Bart</h1>
 <h3 align="center">An applied mathematician interested in machine learning :)</h3>
 
-- 🔭 I’m currently studying **PhD on Computer Science** (Recommendation Systems in complex enviroments) 
+- 🔭 I’m currently studying **PhD on Computer Science** (Recommendation Systems in complex enviroments and Natural Languagae Processing) 
 
-- 💼 I’m currently working on [S4H European Research Project](https://www.stance4health.com/)
+- 💼 I’m currently working on Natural Language Processing for recommendation of college courses. Formerly on nutritional recommendation systems based on Health and Microbiome networks [S4H European Research Project](https://www.stance4health.com/). Both with commercial and product applications.
 
 - 🎙️ My podcast is available at [The Fluxions](https://thefluxions.github.io)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **bortiz@ugr.es**
 
-- ⚡ Fact **Often, data doesn’t offer answers, it offers the ability to find questions. (G. Sollazzo)**
+- ⚡ **Often, data doesn’t offer answers, it offers the ability to find questions. (G. Sollazzo)**
 
 - 😄 Pronouns: He/Him
 

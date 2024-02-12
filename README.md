@@ -1,10 +1,10 @@
 
 
 <h1 align="center">Hi 👋, I'm Bart</h1>
-<h3 align="center">An applied mathematician interested in machine learning :)</h3>
+<h3 align="center">An applied mathematician specialized in machine learning :)</h3>
 <h3 align="center">🆕🆕 Open to new research projects/collaborations and looking for postdocs!</h3>
 
-- 🔭 I’m currently studying **PhD on Computer Science** (Recommendation Systems in complex enviroments and Natural Language Processing) 
+- 🔭 I’m currently finishing my **PhD on Computer Science** (Recommendation Systems in complex enviroments and Natural Language Processing) 
 
 - 💼 I’m currently working on European Research Project 🛬💼[BAG-Intel](https://www.bag-intel.eu/) on knowledge-based databases and machine learning-based decision support.
   -  Previously: 📚🔍 Natural Language Processing for recommendation of college courses.

@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently studying **PhD on Computer Science** (Recommendation Systems in complex enviroments and Natural Languagae Processing) 
 
-- 💼 I’m currently working on European Research Project [BAG-Intel](https://www.stance4health.com/) on knowledge-based databases and machine learning-based decision support.
+- 💼 I’m currently working on European Research Project [BAG-Intel](https://www.bag-intel.eu/) on knowledge-based databases and machine learning-based decision support.
   -  Previously: Natural Language Processing for recommendation of college courses.
   - Previously: nutritional recommendation systems based on Health and Microbiome networks [S4H European Research Project](https://www.stance4health.com/). 
 

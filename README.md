@@ -1,14 +1,15 @@
 
 
-<h1 align="center">Hi 👋, I'm Bart</h1>
-<h3 align="center">An applied mathematician specialized in machine learning :)</h3>
-<h3 align="center">🆕🆕 Open to new research projects/collaborations and looking for postdocs!</h3>
-
-- 🔭 I’m currently finishing my **PhD on Computer Science** (Recommendation Systems in complex enviroments and Natural Language Processing) 
+<h1 align="center">Hi 👋, I'm Bart </h1>
+<h3 align="center">Mathematician and PhD in Machine Learning.</h3>
+<h3 align="center">🆕🆕 Open to new research projects/collaborations and looking for postdocs on applied machine learning! </h3>
+<h3 align="center"> *(Especially those regarding biodiversity and entomology multimodal classification problems.)* </h3>
 
 - 💼 I’m currently working on European Research Project 🛬💼[BAG-Intel](https://www.bag-intel.eu/) on knowledge-based databases and machine learning-based decision support.
-  -  Previously: 📚🔍 Natural Language Processing for recommendation of college courses.
-  - Previously: nutritional recommendation systems based on Health and Microbiome networks 🍝🦠[S4H European Research Project](https://www.stance4health.com/). 
+  - Previously: 📚🔍 Natural Language Processing for recommendation of college courses.
+  - Previously: 🍝🦠 Nutritional recommendation systems based on Health and Microbiome networks [S4H European Research Project](https://www.stance4health.com/). 
+
+- 🖥️ Most of my links can be found at [Linktree](https://linktr.ee/bartortiz)
 
 - 🎙️ My podcast is available at [The Fluxions](https://thefluxions.github.io)
 
